@@ -95,42 +95,6 @@ In config/auth.php
 $ composer require barryvdh/laravel-cors
 ```
 
-
-## Examples
-
-
-### Ionic Framework 
-
-[Ionic 2 + Laravel Passport Login](https://github.com/fcaivano/ionic-passport-app)
-
-### React
-
-(soon)
-
-### Inferno JS
-
-(soon) 
-
-### Marko JS
-
-(soon)
-
-
-## Contributing
-
-If you have any suggestions or improvements open an issue.
-
-<!-- ### Security
-
-If you discover any security-related issues, please email email@provider.com instead of using the issue tracker. -->
-
-<!-- ## Support
-
-...
-
-... -->
-
-
 ## License
 
 Software licensed under the [MIT license](https://opensource.org/licenses/MIT)."# simple-laravel-passport" 
